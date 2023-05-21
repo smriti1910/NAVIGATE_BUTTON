@@ -10,7 +10,7 @@ To create a navigate button using Implicit Intent to display the google page usi
 Latest Version Android Studio
 
 ## ALGORITHM:
-
+```
 Step 1: Open Android Studio and then click on File -> New -> New project.
 Step 2: Then type the Application name and click Next. 
 Step 3: Then select the Minimum SDK as shown below and click Next.
@@ -18,7 +18,7 @@ Step 4: Then select the Empty Activity and click Next. Finally click Finish.
 Step 5: Design layout in activity_main.xml
 Step 6: Display message give in MainActivity file.
 Step 7: Save and run the application.
-
+```
 
 
 ## PROGRAM:
@@ -91,13 +91,13 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ## OUTPUT
-```
+
 ![OUTPUT1](https://github.com/smriti1910/NAVIGATE_BUTTON/assets/133334803/28f96b57-aa8b-4500-bb28-f47270273245)
 ![OUTPUT2](https://github.com/smriti1910/NAVIGATE_BUTTON/assets/133334803/1e9e9ad8-ec2b-4310-8f86-9936ab6dbdf5)
 ![INITIAL OUTPUT](https://github.com/smriti1910/NAVIGATE_BUTTON/assets/133334803/501195a5-afb9-4391-93b4-3641a561bf7f)
 ![NAVIGATED PAGE OUTPUT](https://github.com/smriti1910/NAVIGATE_BUTTON/assets/133334803/39391432-533c-4dad-aa65-07add24493e2)
 
-```
+
 
 
 
